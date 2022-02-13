@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://frac7.github.io/PWAShifts/static/css/main.31d6cfe0.css",
-    "main.js": "https://frac7.github.io/PWAShifts/static/js/main.aabadfca.js",
+    "main.js": "https://frac7.github.io/PWAShifts/static/js/main.1fb2680c.js",
     "static/js/787.a7ffacd7.chunk.js": "https://frac7.github.io/PWAShifts/static/js/787.a7ffacd7.chunk.js",
     "service-worker.js": "https://frac7.github.io/PWAShifts/service-worker.js",
     "index.html": "https://frac7.github.io/PWAShifts/index.html",
-    "main.aabadfca.js.map": "https://frac7.github.io/PWAShifts/static/js/main.aabadfca.js.map",
+    "main.1fb2680c.js.map": "https://frac7.github.io/PWAShifts/static/js/main.1fb2680c.js.map",
     "787.a7ffacd7.chunk.js.map": "https://frac7.github.io/PWAShifts/static/js/787.a7ffacd7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.aabadfca.js"
+    "static/js/main.1fb2680c.js"
   ]
 }
