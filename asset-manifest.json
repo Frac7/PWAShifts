@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/PWAShifts/static/css/main.31d6cfe0.css",
-    "main.js": "/PWAShifts/static/js/main.4ea77b5f.js",
+    "main.js": "/PWAShifts/static/js/main.9c04187e.js",
     "service-worker.js": "/PWAShifts/service-worker.js",
     "index.html": "/PWAShifts/index.html",
-    "main.4ea77b5f.js.map": "/PWAShifts/static/js/main.4ea77b5f.js.map"
+    "main.9c04187e.js.map": "/PWAShifts/static/js/main.9c04187e.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.4ea77b5f.js"
+    "static/js/main.9c04187e.js"
   ]
 }
