@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "https://frac7.github.io/PWAShifts/static/css/main.31d6cfe0.css",
-    "main.js": "https://frac7.github.io/PWAShifts/static/js/main.1fb2680c.js",
-    "static/js/787.a7ffacd7.chunk.js": "https://frac7.github.io/PWAShifts/static/js/787.a7ffacd7.chunk.js",
-    "service-worker.js": "https://frac7.github.io/PWAShifts/service-worker.js",
-    "index.html": "https://frac7.github.io/PWAShifts/index.html",
-    "main.1fb2680c.js.map": "https://frac7.github.io/PWAShifts/static/js/main.1fb2680c.js.map",
-    "787.a7ffacd7.chunk.js.map": "https://frac7.github.io/PWAShifts/static/js/787.a7ffacd7.chunk.js.map"
+    "main.css": "/PWAShifts/static/css/main.31d6cfe0.css",
+    "main.js": "/PWAShifts/static/js/main.9f0b13b9.js",
+    "service-worker.js": "/PWAShifts/service-worker.js",
+    "index.html": "/PWAShifts/index.html",
+    "main.9f0b13b9.js.map": "/PWAShifts/static/js/main.9f0b13b9.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.1fb2680c.js"
+    "static/js/main.9f0b13b9.js"
   ]
 }
